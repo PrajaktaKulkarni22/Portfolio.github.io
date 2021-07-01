@@ -184,8 +184,4 @@
     cursor: pointer;
   }
 
-  @media (min-width: 480px) {
-    .icons {
-        margin-left: 50px;
-    }
-  }
+  
